@@ -52,5 +52,5 @@ export ROS_HOSTNAME=<IP_ВАШЕГО_ПК>
 
 ### Демонстрация работы системы
 **Ссылка на видео:**
-https://youtube.com/shorts/Ksiyes-O4YU?si=uK10CV20ANQ9H3ir
+https://youtu.be/u8KObHBaOOw?feature=shared
 
